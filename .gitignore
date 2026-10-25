@@ -1,3 +1,4 @@
 output/**
 *.glsl.inc
 
+.direnv/bin
